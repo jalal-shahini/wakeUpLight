@@ -16,3 +16,4 @@ A CR2032 battery is required for the RTC to keep the time when the power is disc
 
 * Since the device is connected to the wall outlet, energy efficiency was not of the highest concern. However, in feauture iterations, I will replace the linear voltage regulator with a buck converter.
 
+**Disclaimer: The design is not yet ready for production. Therefore, the bom and positions files are not accurate.**
